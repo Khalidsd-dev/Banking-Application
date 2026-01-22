@@ -24,8 +24,9 @@ BlueSealBank/
 │  │  ├─ DBPrompt.java
 │  │  ├─ ConnectDatabase.java
 │  │  ├─ frmlogin.java
-│  │  ├─ dashBoard.java
-│  │  └─ UserModel.java
+│  │  ├─ etc.java
+│  │  └─ etc.java
+│  │  └─ --and more...
 │  └─ settings/
 │     └─ AppSettings.java
 ├─ database/
