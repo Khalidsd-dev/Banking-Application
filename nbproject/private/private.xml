@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/panels/Withdraw.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>30</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/frmlogin.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/frmDeposit.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/RoundLabelImageExample.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/BlueSealBank.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/settings/AppSettings.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/frmRegistration.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/panels/Withdraw.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/Transaction.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/config/Trail.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/Sound/Notification.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/config/config.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/DBPrompt.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/dashBoard.java</file>
+            <file>file:/C:/Users/Shadrack/OneDrive/Documentos/NetBeansProjects/BlueSealBank/src/bluesealbank/ConnectDatabase.java</file>
+        </group>
+    </open-files>
+</project-private>
