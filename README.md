@@ -29,8 +29,6 @@ BlueSealBank/
 │  │  └─ --and more...
 │  └─ settings/
 │     └─ AppSettings.java
-├─ database/
-│  └─ bluesealbank.sql
 └─ README.md
 ```
 
